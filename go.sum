@@ -38,8 +38,8 @@ github.com/lightlus/anyvalue v1.0.6 h1:V4e107nJXm5+4/BFjw7Pc2lsoHNNsu3uM0Jq1qLv9
 github.com/lightlus/anyvalue v1.0.6/go.mod h1:zz7I9+KsjQD9Wcd83yWgW+srNjuNu264ZUeTe4pUtOk=
 github.com/lightlus/elog v1.1.1 h1:U3DaLdUemuYupy/uegJDYIumjLDgc0RJPjGELHCLknc=
 github.com/lightlus/elog v1.1.1/go.mod h1:lKQSneLNfFqBCPts2MnIIROiUBOK6gTMiB1bmPvaOa4=
-github.com/lightlus/h3conn v1.1.0 h1:83N/0mdqocpKhtDOyxGEl56+wivAW+UjzwzzWx6w82k=
-github.com/lightlus/h3conn v1.1.0/go.mod h1:zyUbsCmGVsPh1b/Z+T7ei8gHu01DegEWnso+LIHFkgw=
+github.com/lightlus/h3conn v1.1.1 h1:0lM1D1gqVir2nk0aQinqzvW7TTLiluKk0CZiJg7zND0=
+github.com/lightlus/h3conn v1.1.1/go.mod h1:NxhXc+3oELI5p0e+WlL3i/FMhXVyI4YCKI7ONff75kE=
 github.com/lightlus/netstack v1.2.0 h1:67jd0dTRBR+e7vd7cFrdEtCCGW9L2nSvXczZCBUNMQc=
 github.com/lightlus/netstack v1.2.0/go.mod h1:9IDqOKY2poq4CQakEixKzzd+BprHWTWUEqG1GFOKQc8=
 github.com/lightlus/water v1.0.4 h1:naxLKj/7LgdaQJ6J0TKuAv02VA+Xvcrf905cHTT9CPY=

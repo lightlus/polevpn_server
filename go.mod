@@ -7,7 +7,7 @@ require (
 	github.com/gorilla/websocket v1.5.1
 	github.com/lightlus/anyvalue v1.0.6
 	github.com/lightlus/elog v1.1.1
-	github.com/lightlus/h3conn v1.1.0
+	github.com/lightlus/h3conn v1.1.1
 	github.com/lightlus/netstack v1.2.0
 	github.com/lightlus/water v1.0.4
 	github.com/quic-go/quic-go v0.40.1
