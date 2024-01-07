@@ -10,7 +10,7 @@ require (
 	github.com/lightlus/h3conn v1.1.0
 	github.com/lightlus/netstack v1.2.0
 	github.com/lightlus/water v1.0.4
-	github.com/quic-go/quic-go v0.40.0
+	github.com/quic-go/quic-go v0.40.1
 )
 
 require (

@@ -114,7 +114,7 @@ func (hs *HttpServer) h3Handler(w http.ResponseWriter, r *http.Request) {
 
 	conn, err := h3conn.Accept(w, r)
 	if err != nil {
-		elog.Error("upgrade http request to h3 fail", err)
+		elog.Error("upgrade http request to h3 failHTTP3 not supported", err)
 		return
 	}
 
